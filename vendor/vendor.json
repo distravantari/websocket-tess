@@ -3,6 +3,12 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "bvHZOqZm2Gl0XkMh4oOB8iZ7geQ=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "d5b353c5d5a560322e6d96121c814115562501f7",
+			"revisionTime": "2017-04-28T10:59:23Z"
+		},
+		{
 			"checksumSHA1": "TW4KJbVUoNDwApAVswTajN8WbwQ=",
 			"path": "github.com/gorilla/websocket",
 			"revision": "a91eba7f97777409bc2c443f5534d41dd20c5720",
